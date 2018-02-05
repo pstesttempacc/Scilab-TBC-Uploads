@@ -1,6 +1,7 @@
 //CHAPTER 1 ILLUSRTATION 12 PAGE NO 28
 //TITLE:Basic kinematics
 //Figure 1.32(a),1.32(b),1.32(c)
+test code
 clc
 clear
 PI=3.141
